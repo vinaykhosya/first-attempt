@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="www.google.com" target="_blank"><img src="https://www.wallpapertip.com/wmimgs/47-477244_house-targaryen-sigil-hd.jpg" height="300px"></a><hr>
+
+  <pre>
+
+
+
+  </pre>
+  <form>
+    name the symbol <input type="text" name="name" ><br>
+                    <input type="submit">
+  </form>
+</body>
+</html>
